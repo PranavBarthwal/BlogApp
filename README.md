@@ -1,4 +1,4 @@
-#Fullstack Blog App Using Appwrite
+# Fullstack Blog App Using Appwrite
 
 ![alt text](<Screenshot (197).png>)
 
