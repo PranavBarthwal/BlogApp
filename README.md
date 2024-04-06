@@ -1,6 +1,7 @@
 # Fullstack Blog App Using Appwrite
 
-![alt text](<Screenshot (197).png>)
+![Screenshot (197)](https://github.com/PranavBarthwal/BlogApp/assets/110532770/786c27cd-096a-48a0-a956-c09b1ccb0f7c)
+
 
 ## Key Features
 
