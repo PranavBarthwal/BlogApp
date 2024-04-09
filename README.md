@@ -55,7 +55,7 @@ These key features, powered by cutting-edge technologies, contribute to the robu
 
 ## Additional Notes
 
-- Make sure to configure the necessary environment variables for any external services like Appwrite.
+- Make sure to configure the necessary environment variables for any external services like Appwrite and TinyMCE.
 - Follow best practices for React development, such as componentization, state management, and efficient rendering.
 - Regularly update dependencies to benefit from new features, bug fixes, and security patches.
 
